@@ -1,0 +1,9 @@
+GEMINI.md
+Api/bin
+Api/obj
+Api/Properties
+*.http
+
+
+
+
