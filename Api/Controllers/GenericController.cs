@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Api.Repsitories;
-
+//generic controller for everything
 namespace Api.Controllers
 {
     [ApiController]
